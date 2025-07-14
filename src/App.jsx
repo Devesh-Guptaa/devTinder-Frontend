@@ -7,7 +7,7 @@ import Login from './components/Login';
 import Profile from './components/Profile';
 import { Provider } from 'react-redux';
 import store from './utils/store';
-import Feed from './components/feed';
+import Feed from './components/Feed';
 import Connections from './components/Connections';
 import Requests from './components/Requests';
 
